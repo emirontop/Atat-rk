@@ -28,7 +28,7 @@ export default function Home() {
       </h1>
 
       <img
-        src="/ataturk.jpg"
+        src="/Ataturk.png"
         alt="Mustafa Kemal Atatürk"
         style={{
           width: '300px',
